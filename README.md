@@ -1,12 +1,13 @@
 # 🌍 Remote Sensing & GIS Portfolio  
 
 Welcome to my portfolio!  
+
 I specialize in **Remote Sensing, GIS, and Geospatial Data Analysis**.  
 Here you can find my projects related to **NDVI, Land Use/Land Cover (LULC), DEM Analysis, and Vegetation Monitoring**.  
 
 ---
 
-## 📌 About Me
+## 📌 About Me  
 - 🎓 Background in Remote Sensing & GIS  
 - 🛰️ Experience with **Google Earth Engine (GEE), QGIS, ArcGIS, Python (Geospatial libraries)**  
 - 🌱 Interested in **Agriculture, Environment, Forestry & Water Resources projects**  
@@ -14,22 +15,21 @@ Here you can find my projects related to **NDVI, Land Use/Land Cover (LULC), DEM
 
 ---
 
-## 🔑 Skills
+## 🛠 Skills  
 - Satellite Data Processing (Sentinel, Landsat, MODIS)  
-- NDVI / EVI / NDWI Analysis  
-- Land Use / Land Cover (LULC) Classification  
-- Digital Elevation Models (DEM, Slope, Elevation Zones)  
-- Python (geemap, rasterio, geopandas, matplotlib)  
-- WebGIS Dashboards (Google Earth Engine Apps, Leaflet, GitHub Pages)  
+- Land Use / Land Cover Classification  
+- NDVI / EVI / Vegetation Monitoring  
+- DEM Analysis (Slope, Aspect, Hillshade)  
+- Tools: **Google Earth Engine, QGIS, ArcGIS, Python (GDAL, rasterio, geopandas, matplotlib)**  
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects  
 
 ### 1️⃣ NDVI / EVI / NDWI Vegetation Monitoring Portal  
-🔗 [Live App](https://your-link-here.com)  
-📊 Built using **Google Earth Engine**  
-🛰️ Monitors vegetation health, drought & water stress  
+- 🔗 [Live App](https://your-link-here.com) *(replace with your project link if available)*  
+- 🛰️ Built using **Google Earth Engine**  
+- 🌱 Monitors vegetation health, drought & water stress  
 
 ---
 
@@ -46,12 +46,6 @@ Here you can find my projects related to **NDVI, Land Use/Land Cover (LULC), DEM
 
 ---
 
-## 📫 Contact
-- ✉️ Email: your-email@example.com  
-- 🌐 LinkedIn: [Your LinkedIn Link]  
-- 🖥️ GitHub: [Your GitHub Profile Link]  
-
----
-
-⭐ If you like my work, don’t forget to **star this repository**!
-
+## 📬 Contact  
+- 📧 Email: nimjebhojesh@gmail.com 
+- 💻 GitHub: [bhojju-rs-gis](https://github.com/bhojju-rs-gis)  
